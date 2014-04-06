@@ -1,17 +1,17 @@
 {
-  "name": "mashup",
-  "description": "mashup project",
+  "name": "text-twist",
+  "description": "text-twist project",
   "scripts": {
     "test": "grunt"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/advanced-js/mashup.git"
+    "url": "https://github.com/advanced-js/text-twist.git"
   },
   "bugs": {
-    "url": "https://github.com/advanced-js/mashup/issues"
+    "url": "https://github.com/advanced-js/text-twist/issues"
   },
-  "homepage": "https://github.com/advanced-js/mashup",
+  "homepage": "https://github.com/advanced-js/text-twist",
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-jshint": "^0.10.0",
